@@ -2,7 +2,7 @@
 layout: page
 title: Pong
 description: Pong, made in JavaScript
-img: assets/img/3.jpg
+img: assets/img/pong_short.png
 importance: 2
 category: fun
 giscus_comments: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/pong_full.jpg
     ---
 
 <div class="row">

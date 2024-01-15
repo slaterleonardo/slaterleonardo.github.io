@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 19 Year Old Software Engineer studying at New England Institute of Technology 🌱
+subtitle: 19 Year Old Software Engineer 🌱
 
 profile:
   align: right
