@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Pong
+description: Pong, made in JavaScript
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 

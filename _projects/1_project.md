@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: LYK.LYL
+description: A Lightweight Link Shortener, Text Pastes, and Text Cleaning Website
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
