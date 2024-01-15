@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://slaterleonardo.github.io//sitemap.xml
+Sitemap: https://slaterleonardo.github.io/sitemap.xml
