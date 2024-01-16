@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some cool things I've made!
+description: Some cool things I've made
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [fun]
 horizontal: false
 ---

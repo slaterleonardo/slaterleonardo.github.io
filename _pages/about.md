@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently a software engineering student at [New England Institute of Technology](https://www.neit.edu/). I have been programming for the better part of five years and have picked up several languages over my career, this includes Golang, Python, JavaScript, TypeScript, and EJS. I have also worked with a handful of frameworks such as Gin, NextJS, ReactJS, NodeJS, and ExpressJS.
+I am currently a software engineering student at [New England Institute of Technology](https://www.neit.edu/). I have been programming for the better part of five years and have picked up several languages over my career, this includes Golang, Python, JavaScript, TypeScript, and EJS. I have also worked with a handful of frameworks such as Gin, NextJS, ReactJS, NodeJS, and ExpressJS. When I'm not studying I'm working on maintaining and improving a few SaaS products I've founded.
 
-Over my time spent programming I have taken a keen interest in backend development, specifically in Golang, I enjoy creating high performant APIs with beautiful architecture.
+Over my time spent programming I have taken a keen interest in backend development, specifically in Golang, I enjoy creating highly performant APIs with beautiful architecture. Currently my favorite tech stack is NextJS, Golang, and MongoDB.
