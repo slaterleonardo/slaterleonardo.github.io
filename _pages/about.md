@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 19 Year Old Software Engineer Student 🌱
+subtitle: 19 Year Old Software Engineering Student 🌱
 
 profile:
   align: right
