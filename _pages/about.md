@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: 19 Year Old Software Engineer 🌱
+subtitle: 19 Year Old Software Engineer Student 🌱
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Glocester, Rhode Island</p>
+    <p>🏠 Glocester, Rhode Island</p>
+    <p>🏫 New England Institute of Technology</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -17,8 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a software engineering student at [New England Institute of Technology](https://www.neit.edu/). I have been programming for the better part of five years and have picked up several languages over my career, this includes Golang, Python, JavaScript, TypeScript, and EJS. I have also worked with a handful of frameworks such as Gin, NextJS, ReactJS, NodeJS, and ExpressJS.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Over my time spent programming I have taken a keen interest in backend development, specifically in Golang, I enjoy creating high performant APIs with beautiful architecture.

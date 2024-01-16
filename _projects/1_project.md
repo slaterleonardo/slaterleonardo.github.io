@@ -2,7 +2,7 @@
 layout: page
 title: LYK.LYL
 description: A Lightweight Link Shortener, Text Pastes, and Text Cleaning Website
-img: assets/img/12.jpg
+img: assets/img/lyk.lol.png
 importance: 1
 category: fun
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/lyk.lol.png
     ---
 
 <div class="row">
