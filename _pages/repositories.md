@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Github account overview
+description: 
 link: https://github.com/slaterleonardo
 nav: true
 nav_order: 2
