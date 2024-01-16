@@ -7,12 +7,11 @@ first_name: Slater
 middle_name: 
 last_name: Leonardo
 email: saleonardo@email.neit.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lalalala
+description: 19 year old student at New England Institute of Technology studying Software Engineering 🌱
 footer_text:
 keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/prof_pic.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://slaterleonardo.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
