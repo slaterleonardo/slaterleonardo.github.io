@@ -2,6 +2,7 @@
 layout: page
 title: LYK.LOL
 description: A Lightweight Link Shortener, Text Pastes, and Text Cleaning Website
+link: https://lyk.lol/
 img: assets/img/lyk.lol.png
 importance: 1
 category: fun
