@@ -212,7 +212,6 @@ blockquote {
 }
 
 .post-description {
-  margin-bottom: 2rem;
   font-size: 0.875rem;
 
   a {
@@ -522,6 +521,7 @@ footer.sticky-bottom {
 .post-link {
   color: var(--global-text-color);
   text-decoration: none;
+  margin-bottom: 2rem;
 
   &:hover {
     color: var(--global-theme-color);
