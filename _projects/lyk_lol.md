@@ -6,7 +6,7 @@ link: https://lyk.lol/
 img: assets/img/lyk.lol.png
 importance: 1
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 lyk.lol originally started out as a link shortener but soon expanded into a platform that offered several features, this includes:
