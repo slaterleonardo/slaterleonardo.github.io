@@ -12,7 +12,7 @@ profile:
     <p>🏠 Glocester, Rhode Island</p>
     <p>🏫 New England Institute of Technology</p>
     <p>💻 <a href="https://github.com/slaterleonardo" target="_blank">GitHub</a></p>
-    </br>
+    <br>
     <p>🧑 <a href="https://www.linkedin.com/in/slater-leonardo-128934297/" target="_blank">LinkedIn</a></p>
 
 
